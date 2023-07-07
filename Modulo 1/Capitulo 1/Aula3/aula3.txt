@@ -1,0 +1,22 @@
+        Bibliografia Recomendada
+    Material de apoio
+PDF do Curso Em Video
+
+        Refêrencias on-line
+MDN
+W3C
+WHATWG
+W3Schools
+
+        Livros
+O'Reilly
+
+Elizabeth Castro e Bruce Hyslop
+
+Jon Duckett
+
+Elisabeth Robson e Eric Freeman
+
+Nate Cooper e Kim Gee
+
+Mauricio Samy Silva
